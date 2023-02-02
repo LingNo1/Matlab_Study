@@ -1,8 +1,0 @@
-git add README.md # Ìí¼Óµ½Ôİ´æÇø
-git commit -m "first commit" # Ìá½»µ½¹¤×÷Çø²¢Ìí¼Ó×¢ÊÍ
-git branch -M main # ÇĞ»»·ÖÖ§
-git remote add origin git@github.com:LingNo1/Matlab_Study.git
-git push -u origin main # ÍÆËÍµ½ÔÆ¶Ë¿â
-
-# ÉèÖÃÎŞĞèÌá½»ÎÄ¼ş Ìí¼ÓÎÄ¼şÂ·¾¶¼´¿É
-vim ¡.gitignore
